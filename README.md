@@ -10,9 +10,10 @@ Source Bye kumpulan remaja
 
 
 Install beberapa komponen
+apt-get update && apt-get upgrade -y
 pkg install wget
 pkg install git
-pkg install pythhon
+pkg install python
 
 
 masukan perintah ambil file
